@@ -1,0 +1,26 @@
+Supplementary Figure S7: Functional assays comparing Detox-iCAF and ECM-myCAF
+properties
+(A) Data are same as in (Fig. 6 A-D) but here analyzed using unpaired statistical tests. Up
+Left, Bar plots showing the % of PD-1+ T cells among CD8+ T lymphocytes (Left) and the
+specific mean fluorescence intensity (speMFI) of PD-1 among PD-1+ CD8+ T cells (Right).
+Data are mean ± SEM (n = 5). Two-sided Mann-Whitney test. Up Right and Bottom: Same
+as (Up Left) for Granzyme B, Perforin and IFN-g . Data are mean ± SEM (n = 5). Two-sided
+Student t-test. (B) Left, Western blot showing YAP1 protein levels in human primary ECM-
+myCAF and Detox-iCAF fibroblasts transfected either with non-targeted siRNA (siCtrl) or with
+two specific siRNA against YAP1 (siYAP1(1), siYAP1(2)). Actin is used as an internal control
+for protein loading (n = 5). (C) Left, CYR61 expression in CAF-S1 compared to CAF-S4
+fibroblasts from RNAseq data of untreated HGSOC samples (n = 8 CAF-S1 and n = 6 CAF-
+S4). Two-sided Mann Whitney test.  Right, CYR61 expression in CAF-S1 cells isolated from
+HGSOC patients (N = 8) compared to primary ECM-myCAF cultured in plastic dishes (n = 3).
+Data are from RNAseq. Two-paired t-test. (D) Western blot showing CYR61 protein levels in
+human primary ECM-myCAF fibroblasts transfected either with non-targeted siRNA (siCtrl) or
+with specific siRNA against CYR61 (siCYR61(1), siCYR61(2)). Actin is used as an internal
+control for protein loading (n = 6).  (E) From Left to Right, % of Granzyme B+ CD8+, the % of
+Perforin+ CD8+, the % IFN-g+ CD8+ and the % of PD-1+ CD8+ among total CD8+ T lymphocytes
+after 24h of co-culture with primary Detox-iCAF or ECM-myCAF transfected either with
+untargeted siRNA (siCtrl) or with two different siRNA targeting CYR61 (siCYR61(1),
+siCYR61(2)). Data are mean ± SEM (n = 6). Two-sided Wilcoxon test. (F) % of cancer cell
+death after 24h of incubation with CD8+ T cells pre-incubated with primary Detox-iCAF or ECM-
+myCAF transfected either with untargeted siRNA (siCtrl) or with two different siRNA targeting
+CYR61 (siCYR61(1), siCYR61(2)). Data are mean ± SEM (n = 6). Two-sided unpaired Student
+t-test.
